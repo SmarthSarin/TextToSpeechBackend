@@ -23,3 +23,6 @@ Thumbs.db
 .idea/
 *.swp
 
+# Ignore Google Cloud credentials
+server/google-credentials.json
+

@@ -14,7 +14,7 @@
     },
     "production": {
       "apiBaseUrl": "https://talk2text-backend.onrender.com",
-      "frontendUrl": "https://talk2text-mern.vercel.app"
+      "frontendUrl": "https://speech-to-text-frontend-phi.vercel.app"
     }
   },
   "features": [

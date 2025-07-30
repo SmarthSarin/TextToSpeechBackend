@@ -13,7 +13,7 @@
       "frontendUrl": "http://localhost:5173"
     },
     "production": {
-      "apiBaseUrl": "https://talk2text-backend.onrender.com",
+      "apiBaseUrl": "https://texttospeechbackend-1.onrender.com",
       "frontendUrl": "https://speech-to-text-frontend-phi.vercel.app"
     }
   },

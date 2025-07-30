@@ -55,7 +55,7 @@ const upload = multer({
 });
 
 // Health Check
-app.get("/", (req, res) => res.send("✅ API is running..."));
+app.get("/", (req, res) => res.send("API is running..."));
 
 // Transcribe Route with Middleware Error Logging
 app.post("/transcribe", (req, res, next) => {

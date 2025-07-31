@@ -12,7 +12,7 @@ const PORT = process.env.PORT || 5000;
 
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://text-to-speech-frontend-beta.vercel.app"
+  "https://backend-test-nine-xi.vercel.app"
 ];
 
 app.use(cors({
